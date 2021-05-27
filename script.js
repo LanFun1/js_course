@@ -5,5 +5,5 @@ let deposit = 12;
 let mission = "to do";
 let period = "12 month";
 
-alert("Я!");
+alert("Я сделяль!");
 console.log("Здесь тоже сделяль!");  
